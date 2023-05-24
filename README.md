@@ -1,4 +1,4 @@
-# Welcome to **bithealer**
+# Welcome to **Marc**
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
@@ -8,16 +8,16 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 
 </p>
 <p align="center">
-  <a href="https://github.com/bithealer">
+  <a href="https://github.com/marc1019">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Blockchain%20Developer;&center=true&width=800&height=45">
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=bithealer&theme=merko&layout=compact&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bithealer&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=marc1019&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc1019&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bithealer.bithealer" />
-<img align="right" src="https://img.shields.io/github/followers/bithealer?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=marc1019.marc1019" />
+<img align="right" src="https://img.shields.io/github/followers/marc1019?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 ## **𝐒𝐤𝐢𝐥𝐥𝐬**
@@ -29,7 +29,6 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="./images/rust.svg" width="100" alt="Rust" /></td>
-    <td><img src="./images/go.svg" width="100" alt="Rust" /></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>    
