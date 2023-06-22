@@ -1,26 +1,24 @@
 # Welcome to **Marc**
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-  <p>
-
-Creative, Passionate, and Efficient React and Blockchain developer. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented Staking Platform, DEX, Bridge, NFT Marketplaces by using Web3 libraries, Solidity and Rust.
-Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
-
-</p>
 <p align="center">
   <a href="https://github.com/marc1019">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20React%20and%20Blockchain%20Developer;&center=true&width=800&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative%20and%20Passionate%20React%20and%20Blockchain%20Developer;&center=true&width=800&height=45">
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=marc1019&theme=merko&layout=compact&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc1019&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
+<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<p>
+
+Looking for a skilled developer with experience in both React and Blockchain? Look no further! Here you'll find an expert who can bring your ideas to life using cutting-edge technology. With a passion for innovation and a keen eye for detail, I am ready to take on any challenge and deliver outstanding results. Feel free to contact me via a Gmail.
+
+</p>
+
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=marc1019.marc1019" />
 <img align="right" src="https://img.shields.io/github/followers/marc1019?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-## **𝐒𝐤𝐢𝐥𝐥𝐬**
+## **👍 Skills**
 
 <table>
   <tr>
