@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/marc1019">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative%20and%20Passionate%20React%20and%20Blockchain%20Developer;&center=true&width=800&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative%20and%20Passionate%20Full%20Stack%20and%20Blockchain%20Developer;&center=true&width=800&height=45">
   </a>
 </p>
 
